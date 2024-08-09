@@ -20,9 +20,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 <li><strong>${diffInSeconds}</strong> segundos</li>
                 <li><strong>${diffInMinutes}</strong> minutos</li>
                 <li><strong>${diffInHours}</strong> horas</li>
-                <li><strong>${diffInDays}</strong> días</li>
+                <li><strong>${diffInDays}</strong> dias</li>
                 <li><strong>${diffInMonths}</strong> meses</li>
-                <li><strong>${diffInYears}</strong> años</li>
+                <li><strong>${diffInYears}</strong> aÃ±os</li>
             </ul>
         `;
     });
